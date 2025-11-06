@@ -1,0 +1,29 @@
+{
+  "tags": [
+    {
+      "name": "nature",
+      "display_name": "自然风光 | Nature",
+      "description": "自然风景、植物、动物 | Natural scenery, plants, animals"
+    },
+    {
+      "name": "abstract",
+      "display_name": "抽象艺术 | Abstract",
+      "description": "抽象图案和艺术作品 | Abstract patterns and artwork"
+    },
+    {
+      "name": "minimalist",
+      "display_name": "简约风格 | Minimalist",
+      "description": "简约、极简主义风格 | Simple, minimalist style"
+    },
+    {
+      "name": "sunset",
+      "display_name": "日落 | Sunset",
+      "description": "日落、黄昏景色 | Sunset and dusk scenes"
+    },
+    {
+      "name": "ocean",
+      "display_name": "海洋 | Ocean",
+      "description": "海洋、海滩相关 | Ocean and beach related"
+    }
+  ]
+}

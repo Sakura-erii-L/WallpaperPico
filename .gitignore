@@ -1,0 +1,56 @@
+# 操作系统文件 | OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 编辑器和 IDE | Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# 临时文件 | Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# 大文件（如果不使用 Git LFS）| Large files (if not using Git LFS)
+# 取消注释以下行如果您不想提交大图片文件
+# Uncomment the following lines if you don't want to commit large image files
+# *.jpg
+# *.jpeg
+# *.png
+# *.webp
+
+# Node.js (如果使用) | Node.js (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (如果使用) | Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 构建输出 | Build output
+dist/
+build/
+*.egg-info/

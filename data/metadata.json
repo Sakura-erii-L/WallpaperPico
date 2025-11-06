@@ -1,0 +1,15 @@
+{
+  "wallpapers": [
+    {
+      "id": "example-001",
+      "filename": "example-wallpaper.jpg",
+      "title": "示例壁纸 | Example Wallpaper",
+      "category": "nature",
+      "tags": ["example", "sample", "示例"],
+      "resolution": "1920x1080",
+      "author": "Your Name",
+      "date": "2025-11-06",
+      "description": "这是一个示例壁纸条目，展示元数据的结构 | This is an example wallpaper entry showing the metadata structure"
+    }
+  ]
+}
